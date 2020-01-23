@@ -7,6 +7,7 @@ $appelles=new Appelle();
 $select_appel="";
 //just comment is good
 //comment 23334
+//no
 if(isset($_GET["id_appel"]))
 {
 	$select_appel="where appel.id=".$_GET["id_appel"];
