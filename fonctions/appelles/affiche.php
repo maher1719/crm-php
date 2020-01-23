@@ -6,6 +6,7 @@ $id=$_SESSION['id'];
 $appelles=new Appelle();
 $select_appel="";
 //hello all
+//this is life
 if(isset($_GET["id_appel"]))
 {
 	$select_appel="where appel.id=".$_GET["id_appel"];
