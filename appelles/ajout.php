@@ -4,6 +4,7 @@
     <div class="col-md-2"></div>
     <div class="col-md-8">
       <!-- Main content -->
+        <!-- comment -->
       <section class="content">
         <div class="box box-success">
           <div class="box-body">
